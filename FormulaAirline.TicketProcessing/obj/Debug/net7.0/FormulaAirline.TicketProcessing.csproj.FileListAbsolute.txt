@@ -1,0 +1,17 @@
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.exe
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.deps.json
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\refint\FormulaAirline.TicketProcessing.dll
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\ref\FormulaAirline.TicketProcessing.dll
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Sudhir\DotNet\DesignPatterns\PubSubRabbitMQ\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CopyComplete

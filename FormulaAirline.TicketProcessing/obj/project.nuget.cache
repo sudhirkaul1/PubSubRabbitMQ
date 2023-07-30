@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRsEf8lCmKZi2z24XECGlq9fJSCn5ZCGcc6hnBsW5rwTJf1FvgrEjNKolYtBiUnM80/QU565cl9JLB5dojLnhA==",
+  "success": true,
+  "projectFilePath": "C:\\Sudhir\\DotNet\\DesignPatterns\\PubSubRabbitMQ\\FormulaAirline.TicketProcessing\\FormulaAirline.TicketProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudhi\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\sudhi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\sudhi\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
